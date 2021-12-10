@@ -5,7 +5,7 @@
 #include<vector>
 #include<sstream>
 
-struct COMMANDS {   // Declare PERSON struct type
+struct COMMANDS {
     std::string direction;
     int unit;
 } command;
